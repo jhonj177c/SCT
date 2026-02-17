@@ -314,15 +314,15 @@ ul {
 }
 
 .hero__image--1 {
-    background-image: url('../assets/Logo-Ok.jpg');
+    background-image: url('Logo-Ok.jpg');
 }
 
 .hero__image--2 {
-    background-image: url('../assets/Slider2.jpg');
+    background-image: url('Slider2.jpg');
 }
 
 .hero__image--3 {
-    background-image: url('../assets/Slider3.jpg');
+    background-image: url('Slider3.jpg');
 }
 
 .hero__overlay {
@@ -895,3 +895,4 @@ ul {
         font-size: 1.5rem;
     }
 }
+
